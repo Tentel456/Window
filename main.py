@@ -7,7 +7,7 @@ root.title("Изображение справа")
 root.geometry("800x600")  
 
 
-image_path = photo.jpg"  
+image_path = "photo.jpg"  
 image = Image.open(image_path)
 photo = ImageTk.PhotoImage(image)
 
